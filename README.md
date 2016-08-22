@@ -1,3 +1,3 @@
 # GitToIt
 
-Stick in the mud!!!
+Stuck in the mud!!!
